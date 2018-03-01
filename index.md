@@ -2,7 +2,7 @@
 I am 23, from germany and like to do whatever comes to my mind, which often results in playing video games, programming or watching anime.
 Music and art play a big role in my life too, check out my youtube channel for music I listen too.
 Whenever I am in the mood and something inspired me to do so, I review certain things, be it shows, games, movies, so also be sure to checkout my reviews and tell me what you think. It's main purpose is to improve my english and communication skills, but I found enjoyment in it.
-I am a professional **Java** developer and **Windows** sysadmin, but am also fond with **Linux**, javascript and some other languages.
+I am a professional **Java** developer, **Windows** sysadmin and **network** admin but am also fond with **Linux**, javascript and some other languages.
 
 > Keep the past, for all intents and purposes, where it is.
 
