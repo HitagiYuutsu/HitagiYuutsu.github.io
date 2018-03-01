@@ -17,7 +17,7 @@ I am a professional **Java** developer, **Windows** sysadmin and **network** adm
 * [Plays.TV Channel](https://plays.tv/u/Hitagi_Yuutsu)
 * [League of Legends Match History](https://matchhistory.euw.leagueoflegends.com/de/#match*history/EUW1/25718609)
 * [OP.GG History](http://euw.op.gg/summoner/userName=Y%C3%BAutsu)
-* [PC](https://pcpartpicker.com/user/Yuutsu/saved/#view=RDrsJx)
+* [PC and Peripherals](https://pcpartpicker.com/user/Yuutsu/saved/#view=RDrsJx)
 * [Notebook](https://msi.com/Laptop/GE72VR*6RF*Apache*Pro.html)
 
 * * *
