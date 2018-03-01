@@ -14,6 +14,7 @@ I am a professional **Java** developer, **Windows** sysadmin and **network** adm
 * [MyAnimeList](https://animelist.net/animelist/HitaYuutsu)
 * [Steam](http://steamcommunity.com/id/HitagiYuutsu/)
 * [YouTube Channel](https://www.youtube.com/channel/UCouNAYJIwPJYA1eEI8NQFPg)
+* [inactive Twitter](https://twitter.com/YuutsuLoL)
 * [Plays.TV Channel](https://plays.tv/u/Hitagi_Yuutsu)
 * [League of Legends Match History](https://matchhistory.euw.leagueoflegends.com/de/#match*history/EUW1/25718609)
 * [OP.GG History](http://euw.op.gg/summoner/userName=Y%C3%BAutsu)
