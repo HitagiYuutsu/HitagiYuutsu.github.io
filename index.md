@@ -5,6 +5,7 @@ Whenever I am in the mood and something inspired me to do so, I review certain t
 I am a professional **Java** developer and **Windows** sysadmin, but am also fond with **Linux**, javascript and some other languages.
 
 > Keep the past, for all intents and purposes, where it is.
+
 ![](https://myanimelist.cdn-dena.com/images/characters/13/344295.jpg)
 
 * * *
