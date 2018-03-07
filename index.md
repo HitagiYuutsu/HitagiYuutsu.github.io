@@ -45,6 +45,10 @@ I am a professional **Java** developer, **Windows** sysadmin and **network** adm
 | XV             |          0%         |   Steam    |
 
 * * *
+##### [](#header-6) Other game achievements
+Resident Evil HD Remaster - fastest Playthrough any% normal - 01:47:25
+
+* * *
 
 ###### [](#header-6) Reviews
 * [Steam-Games](http://steamcommunity.com/id/HitagiYuutsu/recommended/)
